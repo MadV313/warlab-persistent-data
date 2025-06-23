@@ -1,0 +1,15 @@
+{
+  "1234567890": {
+    "username": "PlayerName",
+    "coins": 50,
+    "tools": ["hammer", "pliers"],
+    "parts": {
+      "Upper Receiver": 2,
+      "Handguard": 1
+    },
+    "blueprints": ["M4", "BK-133"],
+    "crafted": [],
+    "prestige": 0,
+    "lastScavenge": "2025-06-11T00:00:00"
+  }
+}
