@@ -1,1 +1,15 @@
-{}
+{
+  "NBC Set": {
+    "pieces": ["NBC Jacket", "NBC Pants", "NBC Hood", "NBC Gloves", "NBC Boots"],
+    "bonus": "Immune to gas/infection traps for 2 turns"
+  },
+  "Gorka Set": {
+    "pieces": ["Gorka Jacket", "Gorka Pants", "Gorka Helmet", "Gorka Boots"],
+    "bonus": "Reduces attack damage by 10%"
+  },
+  "Tactical Set": {
+    "pieces": ["Tactical Vest", "Tactical Backpack", "Combat Boots", "Ballistic Helmet"],
+    "bonus": "Grants extra draw each turn"
+  }
+}
+
